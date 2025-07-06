@@ -1,0 +1,22 @@
+artifact_path: file:///D:/Udemy/Complete_DSMLDLNLP_Bootcamp/Python/49-End%20To%20End%20MLOPS%20Project%20with%20ETL%20Pipelines/mlruns/0/models/m-cd11f022a11d4e19b90b474ec87e9db6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-cd11f022a11d4e19b90b474ec87e9db6
+model_size_bytes: 27183808
+model_uuid: m-cd11f022a11d4e19b90b474ec87e9db6
+prompts: null
+run_id: a36f6dab9f014bc3a312767623c49961
+utc_time_created: '2025-07-05 17:10:26.435515'

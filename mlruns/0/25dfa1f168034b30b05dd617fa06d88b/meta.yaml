@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Udemy/Complete_DSMLDLNLP_Bootcamp/Python/49-End%20To%20End%20MLOPS%20Project%20with%20ETL%20Pipelines/mlruns/0/25dfa1f168034b30b05dd617fa06d88b/artifacts
+end_time: 1751735446059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25dfa1f168034b30b05dd617fa06d88b
+run_name: clumsy-lamb-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751735439394
+status: 3
+tags: []
+user_id: Anwesha

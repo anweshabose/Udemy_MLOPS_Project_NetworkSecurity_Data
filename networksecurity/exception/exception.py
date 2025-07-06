@@ -5,7 +5,7 @@
 from networksecurity.logging import logger
 import sys
 
-class NetworSecurityException(Exception):
+class NetworkSecurityException(Exception):
     def __init__(self, error, error_message:sys):
         self.error = error
         _,_,exc_tb = error_message.exc_info()
@@ -21,7 +21,7 @@ if __name__ == "__main__":
         logger.logging.info("Division by zero error in exception.py")
         a = 1/0
     except Exception as e:
-        raise NetworSecurityException(e, sys)
+        raise NetworkSecurityException(e, sys)
 
 # module>
 #    raise NetworSecurityException(e, sys)

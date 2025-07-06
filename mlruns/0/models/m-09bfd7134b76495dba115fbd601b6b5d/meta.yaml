@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Udemy/Complete_DSMLDLNLP_Bootcamp/Python/49-End%20To%20End%20MLOPS%20Project%20with%20ETL%20Pipelines/mlruns/0/models/m-09bfd7134b76495dba115fbd601b6b5d/artifacts
+creation_timestamp: 1751801905314
+experiment_id: '0'
+last_updated_timestamp: 1751801911163
+model_id: m-09bfd7134b76495dba115fbd601b6b5d
+model_type: null
+name: model
+source_run_id: 9a33a54049214fcf93fd1048bbf9a53e
+status: 2
+status_message: null

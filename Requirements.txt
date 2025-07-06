@@ -3,4 +3,13 @@ pandas
 numpy
 pymongo
 certifi
--e .
+scikit-learn
+dill
+pyaml
+mlflow
+fastapi
+uvicorn
+python-multipart
+#pymongo[srv]==3.6
+#dnspython
+#-e .
